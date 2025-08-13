@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node2" appversion="7.1.10" hassounds="0" apprev="21009">
+  <panorama id="node2">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="158.188">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:09" source="" tags="OFII" altitude="28.20" customnodeid="" longitude="-52.25233338" description="" latitude="-31.76014548" heading="158.188" nodeid="node2"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node1}" description="" id="Point01" pan="80.4869" distance="3.889" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node3}" description="" id="Point02" pan="10.7256" distance="5.62676" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="156.516">
+      <start pan="-0.596251" fov="100" tilt="3.73439" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:08" source="" tags="OFII" altitude="51.40" customnodeid="" longitude="-52.25229319" description="" latitude="-31.76013803" heading="156.516" nodeid="node1"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node2}" description="" id="Point01" pan="258.815" distance="3.889" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-37.3084">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:11" source="" tags="OFII" altitude="29.50" customnodeid="" longitude="-52.25230137" description="" latitude="-31.76018814" heading="-37.3084" nodeid="node3"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node4}" description="" id="Point02" pan="-188.725" distance="4.14199" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node2}" description="" id="Point01" pan="-4.7708" distance="5.62676" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-199.252">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:29" source="" tags="OFII" altitude="19.70" customnodeid="" longitude="-52.25228041" description="" latitude="-31.76022085" heading="-199.252" nodeid="node4"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node3}" description="" id="Point01" pan="-170.669" distance="4.14199" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node5}" description="" id="Point02" pan="-348.186" distance="6.3998" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node15}" description="" id="Point03" pan="-281.594" distance="3.56301" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-195.381">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:30" source="" tags="OFII" altitude="24.60" customnodeid="" longitude="-52.25224548" description="" latitude="-31.76027015" heading="-195.381" nodeid="node5"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node4}" description="" id="Point01" pan="-164.315" distance="6.3998" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node6}" description="" id="Point02" pan="-341.085" distance="4.57897" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-145.342">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:31" source="" tags="OFII" altitude="24.60" customnodeid="" longitude="-52.25221819" description="" latitude="-31.76030417" heading="-145.342" nodeid="node6"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node5}" description="" id="Point01" pan="-111.046" distance="4.57897" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node7}" description="" id="Point02" pan="-290.244" distance="3.0946" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node12}" description="" id="Point03" pan="-181.416" distance="4.11206" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-507.458">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:32" source="" tags="OFII" altitude="18.40" customnodeid="" longitude="-52.25219937" description="" latitude="-31.76032694" heading="-507.458" nodeid="node7"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node6}" description="" id="Point01" pan="-472.36" distance="3.0946" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node8}" description="" id="Point02" pan="-643.773" distance="2.0943" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node11}" description="" id="Point03" pan="-555.026" distance="4.35906" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="263.737">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:33" source="" tags="OFII" altitude="18.40" customnodeid="" longitude="-52.25218407" description="" latitude="-31.76034056" heading="263.737" nodeid="node8"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node7}" description="" id="Point01" pan="307.422" distance="2.0943" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node9}" description="" id="Point02" pan="125.234" distance="1.83644" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-106.912">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:35" source="" tags="OFII" altitude="13.70" customnodeid="" longitude="-52.25217120" description="" latitude="-31.76035293" heading="-106.912" nodeid="node9"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node8}" description="" id="Point01" pan="-65.4152" distance="1.83644" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node10}" description="" id="Point02" pan="-145.211" distance="4.27898" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-34.8452">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:36" source="" tags="OFII" altitude="13.70" customnodeid="" longitude="-52.25214315" description="" latitude="-31.76032273" heading="-34.8452" nodeid="node10"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node9}" description="" id="Point01" pan="106.856" distance="4.27898" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node11}" description="" id="Point02" pan="5.46428" distance="3.24299" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-18.9993">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:36" source="" tags="OFII" altitude="17.20" customnodeid="" longitude="-52.25216534" description="" latitude="-31.76030049" heading="-18.9993" nodeid="node11"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node10}" description="" id="Point01" pan="-158.69" distance="3.24299" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node12}" description="" id="Point02" pan="22.4668" distance="3.88928" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node7}" description="" id="Point03" pan="113.432" distance="4.35906" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-24.9743">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:37" source="" tags="OFII" altitude="12.30" customnodeid="" longitude="-52.25219258" description="" latitude="-31.76027428" heading="-24.9743" nodeid="node12"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node11}" description="" id="Point01" pan="-163.508" distance="3.88928" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node13}" description="" id="Point02" pan="7.66361" distance="2.73994" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node6}" description="" id="Point03" pan="118.952" distance="4.11206" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="341.798">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:38" source="" tags="OFII" altitude="11.70" customnodeid="" longitude="-52.25220821" description="" latitude="-31.76025353" heading="341.798" nodeid="node13"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node12}" description="" id="Point01" pan="194.436" distance="2.73994" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node14}" description="" id="Point02" pan="367.413" distance="2.96324" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="43.0171">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:39" source="" tags="OFII" altitude="11.60" customnodeid="" longitude="-52.25222176" description="" latitude="-31.76022950" heading="43.0171" nodeid="node14"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node13}" description="" id="Point01" pan="-111.368" distance="2.96324" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node15}" description="" id="Point02" pan="97.5131" distance="2.47372" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" overlap="1" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" height="2000" levelingroll="0" levelbiashidpi="1.000" width="2000" leveltilesize="510">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="21.0779">
+      <start pan="0" fov="100" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata author="" comment="" copyright="" title="Emporio Gelei Laranjal" info="" datetime="11/08/2025 18:40" source="" tags="OFII" altitude="10.00" customnodeid="" longitude="-52.25224306" description="" latitude="-31.76021658" heading="21.0779" nodeid="node15"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" border="1" textcolor="0x000000" height="20" textalpha="1" wordwrap="1" width="180" bordercolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node14}" description="" id="Point01" pan="-104.426" distance="2.47372" tilt="0" target="$fwd" skinid="ht_node"/>
+      <hotspot title="Emporio Gelei Laranjal" url="{node4}" description="" id="Point02" pan="118.736" distance="3.56301" tilt="0" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" type="mesh" zoomout="0" delay="none" blendtime="1" zoomoutpause="1" blendcolor="0x000000" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomin="7" zoomafterinfov="140"/>
+    <animation animsequence="Animation01" clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0"/>
+    <control sensitivity="8" speedwheel="1" contextfullscreen="1" simulatemass="1" zoomcentercursor="1" lockedkeyboardzoom="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextvr="1" lockedmouse="0" lockedwheel="0" hideabout="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" author="" comment="" copyright="" title="Emporio Gelei Laranjal" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
